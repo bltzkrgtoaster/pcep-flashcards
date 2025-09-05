@@ -1,5 +1,5 @@
 flashcardQuestions = {
-    "1": "What is the difference between the = and == operators in Python?",
+    "1": "What is the difference between the = and ==  operators in Python?",
     "2": "What is the purpose of the 'while' loop in Python?",
     "3": "How do you define a function in Python?",
     "4": "What is the purpose of the 'for' loop in Python?",
